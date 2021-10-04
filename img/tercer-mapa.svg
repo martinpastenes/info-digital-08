@@ -1,19 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 600 222.5" style="enable-background:new 0 0 600 222.5;" xml:space="preserve">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 600 222.5" style="enable-background:new 0 0 600 222.5;" xml:space="preserve">
 <style type="text/css">
-    @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
 	.st0{opacity:0.5;fill:#FF513F;enable-background:new    ;}
 	.st1{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
 	.st2{opacity:0.4;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;enable-background:new    ;}
 	.st3{fill:#383838;stroke:#FFFFFF;stroke-miterlimit:10;}
 	.st4{opacity:0.5;}
 	.st5{fill:#383838;}
-	.st6{font-family:'Roboto';font-weight: 300;}
+	.st6{font-family:'RobotoCondensed-Light';}
 	.st7{font-size:12px;}
-	.st8{fill:#4D4D4D;}
-	.st9{font-size:14px;}
-	.st10{font-family:'Roboto';font-weight: 700;}
-	.st11{fill:none;stroke:#383838;stroke-width:0.5;stroke-miterlimit:10;}
-	.st12{fill:#FFFFFF;stroke:#383838;stroke-miterlimit:10;}
+	.st8{enable-background:new    ;}
+	.st9{fill:#4D4D4D;}
+	.st10{font-size:14px;}
+	.st11{font-family:'Roboto-Bold';}
+	.st12{fill:none;stroke:#383838;stroke-width:0.5;stroke-miterlimit:10;}
+	.st13{fill:#FFFFFF;stroke:#383838;stroke-miterlimit:10;}
 </style>
 <rect x="359.3" y="91.2" class="st0" width="112.3" height="11.5"/>
 <g>
@@ -117,24 +120,22 @@
 <circle class="st3" cx="464.9" cy="97" r="4.8"/>
 <circle class="st3" cx="471.1" cy="97" r="4.8"/>
 <g class="st4">
-	<text transform="matrix(1 0 0 1 91.0819 72.6316)" class="st5 st6 st7">JUNE</text>
-	<text transform="matrix(1 0 0 1 282.3752 124.4519)" class="st5 st6 st7">JULY</text>
-	<text transform="matrix(1 0 0 1 478.0454 72.6316)" class="st5 st6 st7">AUGUST</text>
+	<text transform="matrix(1 0 0 1 91.0819 72.6316)" class="st5 st6 st7">JUNIO</text>
+	<text transform="matrix(1 0 0 1 282.3752 124.4519)" class="st5 st6 st7">JULIO</text>
+	<text transform="matrix(1 0 0 1 478.0454 72.6316)" class="st5 st6 st7">AGOSTO</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 20.7585 148.8269)" class="st8 st6 st9">Extradition bill</text>
-	<text transform="matrix(1 0 0 1 23.0585 165.6267)" class="st8 st6 st9">protests start</text>
+	<text transform="matrix(1 0 0 1 20.7585 148.8269)" class="st8"><tspan x="0" y="0" class="st9 st6 st10">Comienzan las protestas</tspan><tspan x="0" y="16.8" class="st9 st6 st10">por el proyecto de ley</tspan><tspan x="0" y="33.6" class="st9 st6 st10">de extradición.</tspan></text>
 </g>
-<text transform="matrix(1 0 0 1 299.9235 27.303)" class="st8 st10 st9">First demonstration</text>
-<text transform="matrix(1 0 0 1 309.6235 44.103)" class="st8 st10 st9">in the arrival hall</text>
-<line class="st11" x1="65.6" y1="133" x2="65.6" y2="98.2"/>
-<line class="st11" x1="361.8" y1="93.6" x2="361.8" y2="50.2"/>
+<text transform="matrix(1 0 0 1 299.9235 27.303)" class="st9 st11 st10">Primera demostración</text>
+<text transform="matrix(1 0 0 1 309.6235 44.103)" class="st9 st11 st10">en la sala de llegada</text>
+<line class="st12" x1="65.6" y1="133" x2="65.6" y2="98.2"/>
+<line class="st12" x1="361.8" y1="93.6" x2="361.8" y2="50.2"/>
 <g>
-	<text transform="matrix(1 0 0 1 389.9863 148.8276)" class="st8 st10 st9">5 continuous days of </text>
-	<text transform="matrix(1 0 0 1 382.7863 165.6277)" class="st8 st10 st9">demonstrations ending </text>
-	<text transform="matrix(1 0 0 1 394.6863 182.4277)" class="st8 st10 st9">with more than 300 </text>
-	<text transform="matrix(1 0 0 1 403.4863 199.2275)" class="st8 st10 st9">cancelled flights</text>
+	<g>
+		<text transform="matrix(1 0 0 1 386.7002 148.8276)" class="st8"><tspan x="0" y="0" class="st9 st11 st10">5 días ininterrumpidos</tspan><tspan x="-4.4" y="16.8" class="st9 st11 st10">de manifestaciones que</tspan><tspan x="-1.8" y="33.6" class="st9 st11 st10">terminaron con más de</tspan><tspan x="-1.3" y="50.4" class="st9 st11 st10">300 vuelos cancelados</tspan></text>
+	</g>
 </g>
-<line class="st11" x1="457.5" y1="133" x2="457.5" y2="101.6"/>
-<circle class="st12" cx="66.3" cy="97" r="4.8"/>
+<line class="st12" x1="457.5" y1="133" x2="457.5" y2="101.6"/>
+<circle class="st13" cx="66.3" cy="97" r="4.8"/>
 </svg>
